@@ -33,5 +33,5 @@
 "1","Footswitch","3PDT",""
 "1","Power","DC Jack","Additionally you can use a JST PH 2-Pin Cable with socket to write the DC jack, allowing you to remove the PCB from the enclosure without disoldering any wire."
 "2","In, Out","6.35mm TS jacks",""
-"1", "","5mm LED bezel / lense","", ""
+"1", "","5mm LED bezel / lense",""
 "4", "", "Potentiometer back protection","Optional. Might not be necessary and if needed, electrical tape will work just fine."
