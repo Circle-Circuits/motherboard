@@ -13,6 +13,8 @@ A few options
 
 LED vs no clipping make not much difference. No need for 3 way switch.
 
+You may notice a huge volume drop with some Germanium diodes. If you're unsure, you can use 2 3 pins sockets to be able to try out different diodes. (insert picture of universal muff).
+
 C14 and C17 can be both 47n, both 0.1u or 0.1u and 10n.
 
 ## Enclosure
