@@ -4,12 +4,12 @@ Get the parts (BOM)
 ## Parts
 
 A few options
-1. full build (motherboard-v1 bom) To build it exactly as I do.
+1. [full build](/sources/BOM_motherboard.csv) To build it exactly as I do.
 2. simplified build (with reduced variety of parts)
 3. Simple 3 Knob and 1 footswitch Big Muff.
 
 
-### Some considerations:
+### Some considerations
 
 LED vs no clipping make not much difference. No need for 3 way switch.
 
