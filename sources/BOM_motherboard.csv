@@ -1,36 +1,37 @@
-"Quantity","Reference(s)","Value", "Comments"
-"2","C1, C9","0.1u",""
-"3","C2, C5, C8","470p",""
-"1","C3","0.47u",""
-"6","C4, C6, C7, C12, C14, C17","47n",""
-"2","C10, C11","10n",""
-"1","C13","1u","Ideally electrolytics"
-"1","C15","6n8","Only for Fuzz War"
-"1","C16","680p","Only for Fuzz War"
-"5","D1, D2, D3, D4, D5","1N914",""
-"3","D6, D7, D8","Germanium","Note: Germanium diodes usually cause a big volume drop."
-"3","D9, D10, D11","5mm Red LED",""
-"1","J1","5 pin header","Optional: only if you want to plug in an additional daughtboard."
-"4","Q1, Q2, Q3, Q4","2N5089","You have a lot of choice here: MPSA42, 2N5088, BC549C (classic Big Muff transistor), ..."
-"1","R0","2M",""
-"1","R1","39k","The lower the value, the higher the input gain."
-"4","R2, R9, R14, R21","100k",""
-"4","R3, R10, R15, R22","470k",""
-"3","R4, R12, R16","180R",""
-"5","R5, R11, R17, R19, R24","10k",""
-"2","R6 (Gain), R20 (Tone)","B100k",""
-"1","R7","1k",""
-"3","R8, R13, RLed","6.2k","R8 and R13 affects how much gain is fed into each clipping stage."
-"2","R18, R23","2.2k",""
-"1","R25 (Level)","A250k",""
-"2","R26 (Blend), R27 (Pitch)","B100k trimpot",""
-"1","R30","B25k trimpot",""
-"1","R31","390k","The lower the value, the higher the input gain. Note this is the 'low gain' side of the toggle switch."
-"1","RV1 (Custom)","Your choice of potentiometer","Optional, only if you use the extension header."
-"2","SW1, SW2","SPDT on-on or on-off-on toggle switch","Use a on-off-on switch to be able to bypass the clipping diodes entirely, or a on-on switch otherwise."
-"1","SW4","SPDT on-on toggle switch",""
-"1","SW6 (Feedback)","SPST momentary footswitch",""
-"1","Footswitch","3PDT",""
-"1","Power","DC Jack","Additionally you can use a JST PH 2-Pin Cable with socket to write the DC jack, allowing you to remove the PCB from the enclosure without disoldering any wire."
-"2","In, Out","6.35mm TS jacks",""
-"1", "","5mm LED bezel / lense",""
+"Quantity","Reference(s)","Value"," ""Comments""","""Tayda link"""
+"2","C1, C9","0.1u",,"https://www.taydaelectronics.com/wima-mks2-0.1uf-63v-10-polyester-film-box-type-capacitor.html
+"
+"3","C2, C5, C8","470p",,https://www.taydaelectronics.com/capacitors/polyester-film-box-type-capacitors/0-47-nf-470pf-250v-5-polyester-film-box-type-capacitor.html
+"1","C3","0.47u",,
+"6","C4, C6, C7, C12, C14, C17","47n",Optional: C14 and C17 are only needed for the Feedback loop mod.,https://www.taydaelectronics.com/wima-47nf-0-047uf-100v-5-polyester-film-box-type-capacitor.html
+"2","C10, C11","10n",,https://www.taydaelectronics.com/capacitors/polyester-film-box-type-capacitors/0-01uf-100v-5-kemet-polyester-film-box-type-capacitor.html
+"1","C13","1u",Ideally electrolytics,https://www.taydaelectronics.com/nichicon-1uf-50v-105c-radial-electrolytic-capacitor-5-11mm.html
+"1","C15","6n8",Optional: Only for Fuzz War,
+"1","C16","680p",Optional: Only for Fuzz War,
+"5","D1, D2, D3, D4, D5","1N914",,https://www.taydaelectronics.com/1n914-small-signal-diode-200ma-100v.html
+"3","D6, D7, D8","Germanium",Note: Germanium diodes usually cause a big volume drop.,
+"3","D9, D10, D11","5mm Red LED",,https://www.taydaelectronics.com/led-5mm-red.html
+"1","J1","5 pin header",Optional: only if you want to plug in an additional daughtboard.,
+"4","Q1, Q2, Q3, Q4","2N5089","You have a lot of choice here: MPSA42, 2N5088, BC549C (classic Big Muff transistor), ...",https://www.taydaelectronics.com/2n5089-npn-general-purpose-transistor-central.html
+"1","R0","2M",,https://www.taydaelectronics.com/10-x-resistor-1m-ohm-1-2w-2-2-m-metal-film-pkg-of-10.html
+"1","R1","39k","The lower the value, the higher the input gain.",https://www.taydaelectronics.com/10-x-resistor-39k-ohm-1-2w-1-metal-film-pkg-of-10.html
+"4","R2, R9, R14, R21","100k",,https://www.taydaelectronics.com/resistor-100k-ohm-1-2w-1-metal-film-pkg-of-10.html
+"4","R3, R10, R15, R22","470k",,https://www.taydaelectronics.com/10-x-resistor-470k-ohm-1-2w-1-metal-film-pkg-of-10.html
+"3","R4, R12, R16","180R",,
+"5","R5, R11, R17, R19, R24","10k",,https://www.taydaelectronics.com/resistor-10k-ohm-1-2w-1-metal-film-pkg-of-10.html
+"2","R6 (Gain), R20 (Tone)","B100k",,https://www.taydaelectronics.com/tayda-b-100k-ohm-linear-taper-potentiometer-spline-shaft-pc-mount.html
+"1","R7","1k",,https://www.taydaelectronics.com/resistor-1k-ohm-1-2w-1-metal-film-pkg-of-10.html
+"3","R8, R13, RLed","6.2k",R8 and R13 affects how much gain is fed into each clipping stage. Any value between 5-10k should be ok.,https://www.taydaelectronics.com/10-x-resistor-6-2k-ohm-1-2w-1-metal-film-pkg-of-10.html
+"2","R18, R23","2.2k",,https://www.taydaelectronics.com/10-x-resistor-2-2k-ohm-1-2w-1-metal-film-pkg-of-10.html
+"1","R25 (Level)","A250k",,https://www.taydaelectronics.com/b-250k-ohm-linear-taper-potentiometer-spline-shaft-pc-mount-41.html
+"2","R26 (Blend), R27 (Pitch)","B100k trimpot",Optional: Only for Feedback loop mod.,https://www.taydaelectronics.com/100k-ohm-trimmer-potentiometer-cermet-1-turn-3362p.html
+"1","R30","B25k trimpot",Note: This part is not compatible with the Fuzz War.,https://www.taydaelectronics.com/50k-ohm-trimmer-potentiometer-cermet-1-turn-3362p.html
+"1","R31","390k","The lower the value, the higher the input gain. Note this is the 'low gain' side of the toggle switch.",https://www.taydaelectronics.com/10-x-resistor-390k-ohm-1-2w-1-metal-film-pkg-of-10.html
+"1","RV1 (Custom)","Your choice of potentiometer",Optional: only if you use the extension header.,
+"2","SW1, SW2","SPDT on-on or on-off-on toggle switch","Use a on-off-on switch to be able to bypass the clipping diodes entirely, or a on-on switch otherwise.",https://www.taydaelectronics.com/mini-toggle-switch-1m-series-spdt-on-off-on-short-lever.html
+"1","SW4","SPDT on-on toggle switch",,https://www.taydaelectronics.com/mini-toggle-switch-1m-series-spdt-on-on-short-lever.html
+"1","SW6 (Feedback)","SPST momentary footswitch",Optional: Only for Feedback loop mod.,https://www.taydaelectronics.com/spst-momentary-full-tone-push-button-stomp-foots-pedal-switch-b.html
+"1","Footswitch","3PDT",,https://www.taydaelectronics.com/alpha-3pdt-stomp-foot-pedal-switch.html
+"1","Power","DC Jack","Additionally you can use a JST PH 2-Pin Cable with socket to wire the DC jack, allowing you to remove the PCB from the enclosure without disoldering any wire.",https://www.taydaelectronics.com/dc-power-jack-2-1mm-enclosed-frame-with-switch-white.html
+"2","In, Out","6.35mm TS jacks",,https://www.taydaelectronics.com/neutrik-6-35mm-1-4-mono-chassis-socket-jack.html
+"1"," """"","5mm LED bezel / lense",,https://www.taydaelectronics.com/5mm-led-lampshade-protector-clear.html
