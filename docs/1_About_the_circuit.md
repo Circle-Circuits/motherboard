@@ -6,6 +6,7 @@ About the circuit
 Let's have a look at the schematic. Click on the image below to download it or prefer the [black and white version](/sources/motherboard-v1-bw.pdf) for printing.
 
 [![Schematic](../sources/motherboard-v1-color.svg)](/sources/motherboard-v1-color.pdf)
+<small>(Right click on the image + save link as)</small>
 
 ## Topology
 
@@ -29,12 +30,23 @@ This particular circuit exposes some of the most popular modifications and allow
 
 ### Feedback loop
 
-A feedback loop triggered by a switch (can be a footswitch)
+A feedback loop triggered by a switch (can be a footswitch).
 
 ### Tone control
 
-An additional “body” control that enables more or less mids to come out of the tone stack (a.k.a. [AMZ Tone Control](https://www.muzique.com/lab/tone3.htm)).
+An additional `BODY` control that enables more or less mids to come out of the tone stack (see [AMZ Tone Control](https://www.muzique.com/lab/tone3.htm)).
 
 ### Extension header
 
 An extension bay with space for an additional potentiometer, to extend the circuit and add your own custom control.
+
+### Fuzz War tone stack
+
+The Fuzz War is also derived from a Big Muff (at least the latest version of it) but the tone stack is quite specific. 
+
+On the schematic you will see 2 crossed-out capacitors: `C15` and `C16`. These parts should be ignored when building a regular Big Muff. However, if you would like to replicate a Fuzz War, you will need to solder those and ignore the `BODY` trimpot.
+
+Note that you might need to adjust all the parts values. You will need to do you're own research for that. :)
+
+---
+<small>Read next: [/docs/2_Get_the_pcb.md](/docs/2_Get_the_pcb.md)</small>

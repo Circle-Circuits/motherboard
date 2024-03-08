@@ -1,10 +1,23 @@
 Assembly
 ==========================
 
-![](images/render-full.png)
+## Checklist
 
-Toggle up is hi gain, silicon diode (what ref ?)
-Toggle down is low gain, germanium and LED diodes.
+It's time to make sure you have everything you need.
+
+### Parts
+- the PCB
+- the BOM
+- the enclosure
+- some wires
+
+### Tools
+- soldering iron
+- solder
+- wire stripper
+- wire cutter
+
+## Workflow
 
 IMPORTANT: solder the toggle switches before the potentiometers. Solder the potentiomers while everything is mounted in the enclosure.
 
@@ -32,3 +45,4 @@ Hardware can take up more heat (especially jacks)
 When working on a heat sensitive part (i.e. transistors and diodes), do not  use sockets or attach a crocodile clip to it to deviate the heat
 Diodes are fragile ! Hold the base of the lead with pliers before bending
 
+![](images/render-full.png)
