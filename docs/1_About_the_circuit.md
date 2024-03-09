@@ -5,7 +5,7 @@ About the circuit
 
 Let's have a look at the schematic. Download  (right-click + save as) the [black and white version](/sources/schematic_bw_motherboard_v1.pdf) or the [color version](/sources/schematic_color_motherboard_v1.pdf) as pictured below.
 
-![Schematic](/sources/schematic_color_motherboard_v1.svg)
+[![Schematic](/sources/schematic_color_motherboard_v1.svg)](/sources/schematic_color_motherboard_v1.pdf)
 
 ## Topology
 
