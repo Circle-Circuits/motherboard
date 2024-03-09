@@ -1,9 +1,9 @@
 Prepare the enclosure
 ==========================
 
-If you chose to drill the enclosure yourself, you can download and print [this drill guide](/sources/drill_guide_1590bb_motherboard_v1.pdf) (right-click, save link as).
+If you chose to drill the enclosure yourself, you can download and print [this drill guide](/sources/drill_guide_1590bb_motherboard_v1.pdf).
 
-![Drill guide](/docs/images/drill_guide_1590bb_motherboard_v1.jpg)
+[![Drill guide](/docs/images/drill_guide_1590bb_motherboard_v1.jpg)](/sources/drill_guide_1590bb_motherboard_v1.pdf)
 
 I will not cover how to do this here, but generally, mark the wholes with a center punch first, use progressively bigger drill bits and check regularely the fit of each components to avoid any mistake.
 
