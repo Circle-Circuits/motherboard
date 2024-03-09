@@ -3,10 +3,9 @@ About the circuit
 
 ## Schematic
 
-Let's have a look at the schematic. Click on the image below to download it or prefer the [black and white version](/sources/motherboard-v1-bw.pdf) for printing.
+Let's have a look at the schematic. Download  (right-click + save as) the [black and white version](/sources/schematic_bw_motherboard_v1.pdf.pdf) or the [color version](/sources/schematic_color_motherboard_v1.pdf) as pictured below.
 
-[![Schematic](../sources/motherboard-v1-color.svg)](/sources/motherboard-v1-color.pdf)
-<small>(Right click on the image + save link as)</small>
+![Schematic](../sources/schematic_color_motherboard_v1.svg)
 
 ## Topology
 
