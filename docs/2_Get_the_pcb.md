@@ -8,7 +8,7 @@ Most Manufacturer should be able to use these files.
 
 I've been using Aisler, in Germany. You can order straight from Aisler using this link: https://aisler.net/p/YQFEDFUC
 
-Note that price and minimum order quantity may vary a lot dependending on manufacturers. They should all be able to work with the Gerber files. 
+Note that price and minimum order quantity may vary a lot dependending on manufacturers.
 
 If you would like to use a different manufacturer, [download the files here](/sources/gerbers_motherboard_v1.zip) and send them to your manufacturer of choice.
 
