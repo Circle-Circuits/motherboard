@@ -5,7 +5,7 @@ About the circuit
 
 Let's have a look at the schematic. Download  (right-click + save as) the [black and white version](/sources/schematic_bw_motherboard_v1.pdf) or the [color version](/sources/schematic_color_motherboard_v1.pdf) as pictured below.
 
-![Schematic](../sources/schematic_color_motherboard_v1.svg)
+![Schematic](/sources/schematic_color_motherboard_v1.svg)
 
 ## Topology
 
@@ -18,6 +18,8 @@ While there are a lot of components involved, it is fairly straightforward to un
 ## Mods
 
 This particular circuit exposes some of the most popular modifications and allows us to appreciate the range of sonic possibilities of various Big Muffs at once.
+
+![Manual](/sources/manual_motherboard_v1.jpg)
 
 ### Input gain selection
 
