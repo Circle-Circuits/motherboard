@@ -3,7 +3,7 @@ Get the parts (BOM)
 
 ## Parts
 
-To replicate the exact guitar pedal pictured on the front page, you will need to order all parts listed in this [BOM (Bill of Materials)](https://github.com/Circle-Circuits/motherboard/raw/main/sources/bom_motherboard_v1.csv).
+To replicate the exact guitar pedal pictured on the front page, you will need to order all parts listed in this [BOM (Bill of Materials)](/sources/bom_motherboard_v1.csv).
 
 Pay close attention to the comments in this BOM since some parts are optional. 
 
