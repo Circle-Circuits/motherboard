@@ -3,14 +3,14 @@ The PCB
 
 ## Manufacturing
 
-[Geber files](/sources/gerbers_motherboard_v1.zip) contain all the necessary information to manufacture a circuit board.
+[Geber files](https://github.com/Circle-Circuits/motherboard/raw/main/sources/gerbers_motherboard_v1.zip) contain all the necessary information to manufacture a circuit board.
 Most Manufacturer should be able to use these files.
 
 I've been using Aisler, in Germany. You can order straight from Aisler using this link: https://aisler.net/p/YQFEDFUC
 
 Note that price and minimum order quantity may vary a lot dependending on manufacturers.
 
-If you would like to use a different manufacturer, [download the files here](/sources/gerbers_motherboard_v1.zip) and send them to your manufacturer of choice.
+If you would like to use a different manufacturer, [download the files here](https://github.com/Circle-Circuits/motherboard/raw/main/sources/gerbers_motherboard_v1.zip) and send them to your manufacturer of choice.
 
 ## Notes on the PCB
 

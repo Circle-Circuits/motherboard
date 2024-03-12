@@ -3,9 +3,9 @@ About the circuit
 
 ## Schematic
 
-Let's have a look at the schematic. Download  (right-click + save as) the [black and white version](/sources/schematic_bw_motherboard_v1.pdf) or the [color version](/sources/schematic_color_motherboard_v1.pdf) as pictured below.
+Let's have a look at the schematic. Download the [black and white version](https://github.com/Circle-Circuits/motherboard/raw/main/sources/schematic_bw_motherboard_v1.pdf) or the [color version](https://github.com/Circle-Circuits/motherboard/raw/main/sources/schematic_color_motherboard_v1.pdf) as pictured below.
 
-[![Schematic](/sources/schematic_color_motherboard_v1.svg)](/sources/schematic_color_motherboard_v1.pdf)
+[![Schematic](https://github.com/Circle-Circuits/motherboard/raw/main/sources/schematic_color_motherboard_v1.svg)](https://github.com/Circle-Circuits/motherboard/raw/main/sources/schematic_color_motherboard_v1.pdf)
 
 ## Topology
 
@@ -19,7 +19,7 @@ While there are a lot of components involved, it is fairly straightforward to un
 
 This particular circuit exposes some of the most popular modifications and allows us to appreciate the range of sonic possibilities of various Big Muffs at once.
 
-![Manual](/sources/manual_motherboard_v1.jpg)
+![Manual](https://github.com/Circle-Circuits/motherboard/raw/main/sources/manual_motherboard_v1.jpg)
 
 ### Input gain selection
 
