@@ -47,7 +47,7 @@ The Fuzz War is also derived from a Big Muff (at least the latest version of it)
 
 On the schematic you will see 2 crossed-out capacitors: `C15` and `C16`. These parts should be ignored when building a regular Big Muff. However, if you would like to replicate a Fuzz War, you will need to solder those and ignore the `BODY` trimpot.
 
-Note that you might need to adjust all the parts values. You will need to do you're own research for that. :)
+I will not provide the Fuzz War BOM but here's what you need to replicate the tone stack: [bom_fuzz_war_tone_stack.csv](/sources/bom_fuzz_war_tone_stack.csv)
 
 ---
 <small>Read next: [/docs/2_Get_the_pcb.md](/docs/2_Get_the_pcb.md)</small>
