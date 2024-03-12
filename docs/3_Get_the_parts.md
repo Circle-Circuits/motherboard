@@ -3,7 +3,7 @@ Get the parts (BOM)
 
 ## Parts
 
-To replicate the exact guitar pedal pictured on the front page, you will need to order all parts listed in this [BOM (Bill of Materials)](/sources/bom_motherboard_v1.csv).
+To replicate the exact guitar pedal pictured on the front page, you will need to order all parts listed in this [BOM (Bill of Materials)](https://github.com/Circle-Circuits/motherboard/raw/main/sources/bom_motherboard_v1.csv).
 
 Pay close attention to the comments in this BOM since some parts are optional. 
 
@@ -40,7 +40,7 @@ For this you need to order an additional [uv printing service](https://www.tayda
 
 Once you passed your order, you need to submit a UV printing template to on [drill.taydakits.com](https://drill.taydakits.com/). 
 
-Download the [Motherboard UV print template](/sources/uv_print_1590bb_motherboard_v1.pdf) or design your own.
+Download the [Motherboard UV print template](https://github.com/Circle-Circuits/motherboard/raw/main/sources/uv_print_1590bb_motherboard_v1.pdf) or design your own.
 
 ---
 <small>Read next: [/docs/4_Drill_the_enclosure.md](/docs/4_Drill_the_enclosure.md)</small>

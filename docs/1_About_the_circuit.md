@@ -3,9 +3,9 @@ About the circuit
 
 ## Schematic
 
-Let's have a look at the schematic. Download  (right-click + save as) the [black and white version](/sources/schematic_bw_motherboard_v1.pdf) or the [color version](/sources/schematic_color_motherboard_v1.pdf) as pictured below.
+Let's have a look at the schematic. Download the [black and white version](https://github.com/Circle-Circuits/motherboard/raw/main/sources/schematic_bw_motherboard_v1.pdf) or the [color version](https://github.com/Circle-Circuits/motherboard/raw/main/sources/schematic_color_motherboard_v1.pdf) as pictured below.
 
-[![Schematic](/sources/schematic_color_motherboard_v1.svg)](/sources/schematic_color_motherboard_v1.pdf)
+[![Schematic](https://github.com/Circle-Circuits/motherboard/raw/main/sources/schematic_color_motherboard_v1.svg)](https://github.com/Circle-Circuits/motherboard/raw/main/sources/schematic_color_motherboard_v1.pdf)
 
 ## Topology
 
@@ -19,7 +19,7 @@ While there are a lot of components involved, it is fairly straightforward to un
 
 This particular circuit exposes some of the most popular modifications and allows us to appreciate the range of sonic possibilities of various Big Muffs at once.
 
-![Manual](/sources/manual_motherboard_v1.jpg)
+![Manual](https://github.com/Circle-Circuits/motherboard/raw/main/sources/manual_motherboard_v1.jpg)
 
 ### Input gain selection
 
@@ -47,7 +47,7 @@ The Fuzz War is also derived from a Big Muff (at least the latest version of it)
 
 On the schematic you will see 2 crossed-out capacitors: `C15` and `C16`. These parts should be ignored when building a regular Big Muff. However, if you would like to replicate a Fuzz War, you will need to solder those and ignore the `BODY` trimpot.
 
-I will not provide the Fuzz War BOM but here's what you need to replicate the tone stack: [bom_fuzz_war_tone_stack.csv](/sources/bom_fuzz_war_tone_stack.csv)
+I will not provide the Fuzz War BOM but here's what you need to replicate the tone stack: [bom_fuzz_war_tone_stack.csv](https://github.com/Circle-Circuits/motherboard/raw/main/sources/bom_fuzz_war_tone_stack.csv)
 
 ---
 <small>Read next: [/docs/2_Get_the_pcb.md](/docs/2_Get_the_pcb.md)</small>
